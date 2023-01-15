@@ -38,6 +38,6 @@ openpyxl 库
 `如果未来添加AI那么会高不少，xdm做好心理准备`
 
 ## License 许可
-GNU Public License v3.0
+GNU General Public License v3.0 
 GPLv3.0
 
