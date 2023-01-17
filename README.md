@@ -4,7 +4,6 @@
 [![Python](https://img.shields.io/badge/python-3.8.0-blue.svg?style=flat-square)](https://www.python.org/downloads/release/python-362/)
 > “人们总喜欢活在舒适区内，用粗暴的断言安慰自己，例如机器永远无法模仿人类的某些特性。但我给不了这样的安慰，因为我认为并不存在无法模仿的人类特性。”——Alan Turing, 1951
 >
-> 总有一天，我也会让我们的代码携带上人工智能，为人们带来便捷  
 
 这里是自动化Office小工具的官方代码仓库   
 
@@ -28,7 +27,7 @@ openpyxl
 - 英特尔酷睿2代
 - 4GB DDR3 1333Mhz
 - 2GB 空间预留
-- Windows7/MacOSX10.6/
+- Windows7/MacOS10.6……
 
 ## License 许可
 `GNU General Public License v3.0`
