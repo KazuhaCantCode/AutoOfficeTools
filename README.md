@@ -8,19 +8,6 @@
 
 这里是自动化Office小工具的官方代码仓库   
 
-## Environment 运行环境
-Python 3.6.0 or later 
-
-[Download下载](https://www.python.org)
-
-easygui 库
-
-`pip install easygui`
-
-openpyxl 库
-
-`pip install openpyxl`
-
 ## Overview 概述
 - Office新文件支持
 - Python语言编写
@@ -31,14 +18,17 @@ openpyxl 库
 - 下载代码 
 - 安装环境
 - 运行代码
+- 
+## Depend 依赖
+easygui
 
+openpyxl
 
-## Support 支持
-- 双核1.0Ghz或更快（这有助于效率）
-- 4G或更高内存
-- 预留1G左右空间
-- Windows7/MacOSX10.6/…… or later 
-`如果未来添加AI那么会高不少，xdm做好心理准备`
+## Support 最低支持
+- 英特尔酷睿2代
+- 4GB DDR3 1333Mhz
+- 2GB 空间预留
+- Windows7/MacOSX10.6/
 
 ## License 许可
 `GNU General Public License v3.0`
