@@ -16,8 +16,10 @@
 - 自动化快捷操作
 - 几乎全平台的支持
 
-## Installation 安装
-下载代码，即可直接在有Python3.x和必要库环境PC上运行
+## Clean Installation 全新安装
+1.下载代码
+2.运行Python3.8文件夹的安装包
+3.安装必要的库（见运行环境）
 
 ## Environment 运行环境
 Python 3.6.0 or later [Download下载](https://www.python.org)
@@ -28,7 +30,7 @@ easygui 库
 
 openpyxl 库
 
-`pip install easygui`
+`pip install openpyxl`
 
 ## Support 支持
 - 双核1.0Ghz或更快（这有助于效率）
@@ -38,6 +40,6 @@ openpyxl 库
 `如果未来添加AI那么会高不少，xdm做好心理准备`
 
 ## License 许可
-GNU General Public License v3.0 
-GPLv3.0
+`GNU General Public License v3.0`
+
 
