@@ -29,8 +29,12 @@
 - 4GB DDR3 1333Mhz
 - 2GB 空间预留
 - Windows7/MacOS10.6……
-
+- 
 ## License 许可
 `GNU General Public License v3.0`
+
+## `Beta`对于CACP
+CACP机可以在WaveCompiler内添加Python支持，然后在WavePanel里拉取该项目代码。
+该项目无需CUDA显示卡
 
 
