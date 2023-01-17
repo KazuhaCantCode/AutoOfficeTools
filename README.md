@@ -32,7 +32,7 @@
 GNU General Public License v3.0
 
 
-## `Beta`对于CACP
+## `Beta` 对于CACP
 CACP机可以在WaveCompiler内添加Python支持，然后在WavePanel里拉取该项目代码。
 该项目无需CUDA显示卡
 
