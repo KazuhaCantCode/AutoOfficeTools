@@ -8,20 +8,10 @@
 
 这里是自动化Office小工具的官方代码仓库   
 
-## Overview 概述
-- Office新文件支持
-- Python语言编写
-- 自动化快捷操作
-- 几乎全平台的支持
-
-## Installation 全新安装
-- 下载代码 
-- 运行Python3.8文件夹的安装包 
-- 安装必要的库（见运行环境） 
-
 ## Environment 运行环境
 Python 3.6.0 or later 
-`[Download下载](https://www.python.org)`
+
+[Download下载](https://www.python.org)
 
 easygui 库
 
@@ -30,6 +20,18 @@ easygui 库
 openpyxl 库
 
 `pip install openpyxl`
+
+## Overview 概述
+- Office新文件支持
+- Python语言编写
+- 自动化快捷操作
+- 几乎全平台的支持
+
+## Installation 全新安装
+- 下载代码 
+- 安装环境
+- 运行代码
+
 
 ## Support 支持
 - 双核1.0Ghz或更快（这有助于效率）
