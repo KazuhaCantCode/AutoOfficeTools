@@ -14,14 +14,15 @@
 - 几乎全平台的支持
 
 ## Installation 全新安装
-- 下载代码 
-- 安装环境
-- 运行代码
-- 
-## Depend 依赖
-easygui
+1.下载代码 
 
-openpyxl
+2.安装环境
+
+3.运行代码
+
+## Depend 依赖
+- easygui
+- openpyxl
 
 ## Support 最低支持
 - 英特尔酷睿2代
