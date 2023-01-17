@@ -31,7 +31,7 @@
 - Windows7/MacOS10.6……
 
 ## License 许可
-`GNU General Public License v3.0`
+GNU General Public License v3.0
 
 
 ## `Beta`对于CACP
