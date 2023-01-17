@@ -6,23 +6,22 @@
 >
 > 总有一天，我也会让我们的代码携带上人工智能，为人们带来便捷  
 
-这里是自动化Office小工具的官方代码仓库  
-
-我们主要使用Python来编写，因为它简单易上手，体积小，轻量化修改方便。 
+这里是自动化Office小工具的官方代码仓库   
 
 ## Overview 概述
-- xlsx,docx……新文件支持
+- Office新文件支持
 - Python语言编写
 - 自动化快捷操作
 - 几乎全平台的支持
 
-## Clean Installation 全新安装
-1.下载代码
-2.运行Python3.8文件夹的安装包
-3.安装必要的库（见运行环境）
+## Installation 全新安装
+- 下载代码 
+- 运行Python3.8文件夹的安装包 
+- 安装必要的库（见运行环境） 
 
 ## Environment 运行环境
-Python 3.6.0 or later [Download下载](https://www.python.org)
+Python 3.6.0 or later 
+`[Download下载](https://www.python.org)`
 
 easygui 库
 
